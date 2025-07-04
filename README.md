@@ -1,5 +1,9 @@
 <h2 align="center">👋 Olá! Eu sou a NeusaM21</h2>
 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
+
+
 <h3 align="center">💻 Dev Python | 🤖 Automação & IA | ⚙️ Projetos práticos e funcionais</h3>
 
 ---
@@ -33,7 +37,8 @@
 
 ### 📫 Contato
 
-📧 **E-mail profissional**: contact.neusam21@gmail.com
+📧 **E-mail profissional**: [📬 Enviar e-mail](mailto:contact.neusam21@gmail.com)
+
 💼 **Disponível para freelas e colaborações**
 
 ---
