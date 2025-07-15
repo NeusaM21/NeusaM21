@@ -1,9 +1,18 @@
 ## 🎓 Certificações
 
-[![IBM ML Badge](https://raw.githubusercontent.com/NeusaM21/NeusaM21/main/machine-learning-with-python-v2.png)](https://www.credly.com/badges/baad4ec1-70c7-4d20-8e5b-94c946222618/public_url)
+<h2 align="center">🎓 Certificações</h2>
 
-🧠 [IBM Machine Learning with Python - Coursera](https://www.credly.com/badges/baad4ec1-70c7-4d20-8e5b-94c946222618/public_url)
+<p align="center">
+  <a href="https://www.credly.com/badges/baad4ec1-70c7-4d20-8e5b-94c946222618/public_url" target="_blank">
+    <img src="https://raw.githubusercontent.com/NeusaM21/NeusaM21/main/machine-learning-with-python-v2.png" alt="IBM ML Badge" width="160"/>
+  </a>
+</p>
 
+<p align="center">
+  🧠 <a href="https://www.credly.com/badges/baad4ec1-70c7-4d20-8e5b-94c946222618/public_url" target="_blank">
+    IBM Machine Learning with Python - Coursera
+  </a>
+</p>
 
 <h2 align="center">👋 Olá! Eu sou a NeusaM21</h2>
 
