@@ -1,6 +1,6 @@
 ## 🎓 Certificações
 
-[![IBM ML Badge](https://images.credly.com/size/340x340/images/1c6c3ab6-3483-4d35-ae2d-1c168a45e907/image.png)](https://www.credly.com/badges/baad4ec1-70c7-4d20-8e5b-94c946222618/public_url)
+[![IBM ML Badge](https://raw.githubusercontent.com/NeusaM21/NeusaM21/main/machine-learning-with-python-v2.png)](https://www.credly.com/badges/baad4ec1-70c7-4d20-8e5b-94c946222618/public_url)
 
 🧠 [IBM Machine Learning with Python - Coursera](https://www.credly.com/badges/baad4ec1-70c7-4d20-8e5b-94c946222618/public_url)
 
