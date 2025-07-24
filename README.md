@@ -20,11 +20,11 @@
 
 ### 💡 Sobre mim
 
-- 🔍 Especialista em **automação com Python** e **inteligência artificial aplicada**
-- 🚀 Crio soluções que economizam tempo, automatizam tarefas e geram valor real
-- 👩‍💻 Freelancer com foco em projetos personalizados para empresas e pessoas físicas
-- 🌱 Sempre aprendendo, testando novas ideias e explorando novas APIs
-- 📂 Portfólio com bots inteligentes, automação de e-mails e integração com WhatsApp
+- 🎯 Profissional com sólida experiência em **automação de processos utilizando Python** e **inteligência artificial aplicada**
+- 🚀 Atuo na criação de soluções inteligentes que otimizam fluxos operacionais, reduzem tarefas manuais e agregam valor direto aos negócios
+- 👩‍💻 Desenvolvo projetos sob medida, com foco em eficiência, escalabilidade e integração entre sistemas e APIs
+- 🌐 Possuo ampla familiaridade com ferramentas no-code, plataformas de automação e tecnologias emergentes
+- 📚 Comprometida com a melhoria contínua, mantendo-me atualizada com as melhores práticas e avanços no ecossistema de IA e automação
 
 ---
 
