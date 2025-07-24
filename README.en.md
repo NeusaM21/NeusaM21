@@ -19,11 +19,11 @@
 
 ### 💡 About Me
 
-- 🔍 I specialize in **Python automation** and **applied AI**
-- 🚀 I build solutions that save time, automate tasks, and deliver real value
-- 👩‍💻 Freelancer focused on customized automation for businesses and individuals
-- 🌱 Constantly learning, testing ideas, and exploring powerful APIs
-- 📂 My portfolio includes bots, email automation, WhatsApp integration and more
+- 🎯 Professional with solid experience in **process automation using Python** and **applied artificial intelligence**
+- 🚀 I design intelligent solutions that optimize operational workflows, reduce manual tasks, and deliver direct business value
+- 👩‍💻 I develop custom projects focused on efficiency, scalability, and seamless integration between systems and APIs
+- 🌐 Highly familiar with no-code tools, automation platforms, and emerging technologies
+- 📚 Committed to continuous improvement, always staying up to date with best practices and advancements in the AI and automation ecosystem
 
 ---
 
