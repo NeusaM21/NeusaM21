@@ -37,11 +37,24 @@
 
 ---
 
-### 📌 Repositórios em destaque
+📌 Repositórios em destaque (PT-BR)
+📁 smart-integration-leads
+Automação completa para captação e nutrição de leads com Make, GPT-4 e CRM. 100% no-code, integrada e inteligente.
 
-- 🔹 [email_bot](https://github.com/NeusaM21/email_bot): Bot que envia e-mails automáticos a partir de planilhas Excel
-- 🔹 [smartbot-gpt-whatsapp](https://github.com/NeusaM21/smartbot-gpt-whatsapp): Chatbot com integração Gemini + WhatsApp via Flask
-- 🔹 [projeto-portfolio](https://github.com/NeusaM21/projeto-portfolio): Repositório central com meus projetos principais
+📁 email_bot
+Automatize o envio de e-mails personalizados com Python e planilhas Excel. Ideal para ONGs, marketing, lembretes ou atendimentos automáticos.
+
+📁 pdf-insight-bot
+Faça perguntas e extraia insights de arquivos PDF usando IA. Criado com LangChain, Gemini, Streamlit e OpenAI.
+
+📁 ecommerce-marketing-automation
+Automação completa para marketing e vendas em e-commerce — da captação de leads até campanhas com IA.
+
+📁 projeto-portfolio
+Repositório principal que organiza todos os meus projetos de automação e inteligência artificial.
+
+📁 smartbot-gpt-whatsapp
+Chatbot com integração Gemini + WhatsApp usando Flask. Ideal para atendimento inteligente e automatizado.
 
 ---
 
