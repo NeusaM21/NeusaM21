@@ -54,9 +54,6 @@
 - 📁 [**projeto-portfolio**](https://github.com/NeusaM21/projeto-portfolio)  
   Repositório principal que organiza todos os meus projetos de automação e inteligência artificial.
 
-- 📁 [**smartbot-gpt-whatsapp**](https://github.com/NeusaM21/smartbot-gpt-whatsapp)  
-  Chatbot com integração Gemini + WhatsApp usando Flask. Ideal para atendimento inteligente e automatizado.
-
 ---
 
 ### 📫 Contato
