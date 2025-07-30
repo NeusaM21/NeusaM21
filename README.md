@@ -19,7 +19,6 @@
 ---
 
 💡 Sobre mim
-
 🎯 Em transição para a área de automação de processos com Python e inteligência artificial aplicada, focada em aprendizado prático e construção de soluções reais
 🚀 Desenvolvo projetos que otimizam fluxos operacionais, reduzem tarefas manuais e agregam valor direto ao negócio
 👩‍💻 Tenho atuado em iniciativas com foco em eficiência, escalabilidade e integração entre sistemas e APIs
