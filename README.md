@@ -12,6 +12,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
+![Automation & AI Specialist](https://img.shields.io/badge/Automation_&_AI-Specialist-blueviolet?style=for-the-badge&logo=python&logoColor=white)
 
 
 <h3 align="center">💻 Dev Python | 🤖 Automação & IA | ⚙️ Projetos práticos e funcionais</h3>
