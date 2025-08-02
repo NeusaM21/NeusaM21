@@ -49,7 +49,7 @@
 - 📁 [**pdf-insight-bot**](https://github.com/NeusaM21/pdf-insight-bot)  
   Faça perguntas e extraia insights de arquivos PDF usando IA. Criado com LangChain, Gemini, Streamlit e OpenAI.
 
-- 📁 [**ecommerce-marketing-automation**](https://github.com/NeusaM21/ecommerce-marketing-automation)  
+- 📁 - [ecommerce-marketing-automation-project](https://github.com/NeusaM21/ecommerce-marketing-automation-project) 
   Automação completa para marketing e vendas em e-commerce — da captação de leads até campanhas com IA.
 
 - 📁 [**projeto-portfolio**](https://github.com/NeusaM21/projeto-portfolio)  
