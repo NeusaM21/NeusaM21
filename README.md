@@ -29,12 +29,14 @@
 
 ---
 
-### 🛠️ Tecnologias que uso
+## 🛠️ Tecnologias que uso
 
-- 💻 **Python**
-- 🧩 Flask | Pandas | Selenium | OpenAI | Gemini | APIs REST
-- ☁️ Git | GitHub | VS Code | Google Colab
-- 📊 Excel + Python para relatórios e automações
+🐍 **Python** – Desenvolvimento de automações, scripts e integrações inteligentes  
+🔧 **Flask | Pandas | Selenium | OpenAI | Gemini | APIs REST** – Construção de soluções eficientes com foco em dados e IA aplicada  
+🌐 **Git | GitHub | VS Code | Google Colab** – Versionamento, colaboração e desenvolvimento ágil  
+📊 **Excel + Python** – Automação de relatórios, dashboards e processos operacionais  
+⚡ **Plataformas No-Code (Make, Zapier)** – Integração de fluxos inteligentes sem código para acelerar resultados  
+🚀 **Tecnologias emergentes** – Sempre em busca das melhores práticas e tendências em IA e automação para potencializar negócios
 
 ---
 
