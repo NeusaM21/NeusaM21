@@ -43,19 +43,19 @@
 ### 📌 Repositórios em Destaque (PT-BR)
 
 - 📁 [**smart-integration-leads**](https://github.com/NeusaM21/smart-integration-leads)  
-  Automação completa para captação e nutrição de leads com Make, GPT-4 e CRM. 100% no-code, integrada e inteligente.
+  Automação inteligente para captação e nutrição de leads com Make, GPT-4 e CRM. Integração completa, 100% no-code e pronta para uso real.
 
 - 📁 [**email_bot**](https://github.com/NeusaM21/email_bot)  
-  Automatize o envio de e-mails personalizados com Python e planilhas Excel. Ideal para ONGs, marketing, lembretes ou atendimentos automáticos.
+  Bot em Python para envio automático de e-mails personalizados via Excel. Ideal para cobranças, lembretes, marketing e atendimentos recorrentes.
 
 - 📁 [**pdf-insight-bot**](https://github.com/NeusaM21/pdf-insight-bot)  
-  Faça perguntas e extraia insights de arquivos PDF usando IA. Criado com LangChain, Gemini, Streamlit e OpenAI.
+  Extraia respostas e insights de PDFs com IA. Criação com LangChain, Gemini, Streamlit e OpenAI.
 
 - 📁 [ecommerce-marketing-automation-project](https://github.com/NeusaM21/ecommerce-marketing-automation-project) 
-  Automação completa para marketing e vendas em e-commerce — da captação de leads até campanhas com IA.
+  Simulação de automação completa para e-commerce com IA — da captação de leads à conversão em vendas, usando Shopify, Klaviyo, Python e Zapier.
 
 - 📁 [**projeto-portfolio**](https://github.com/NeusaM21/projeto-portfolio)  
-  Repositório principal que organiza todos os meus projetos de automação e inteligência artificial.
+  Meu repositório central com links e resumos de todos os meus projetos de automação, inteligência artificial e integrações no-code.
 
 ---
 
