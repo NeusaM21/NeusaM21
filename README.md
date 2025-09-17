@@ -50,7 +50,7 @@
 
 ---
 
-### 📌 Repositórios em Destaque (PT-BR)
+## 📌 Repositórios em Destaque (PT-BR)
 
 - 📁 [**smart-integration-leads**](https://github.com/NeusaM21/smart-integration-leads)  
   Automação inteligente para captação e nutrição de leads com Make, GPT-4 e CRM. Integração completa, 100% no-code e pronta para uso real.
@@ -73,7 +73,7 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NeusaM21&show_icons=true&theme=radical" alt="GitHub stats" />
@@ -85,15 +85,16 @@
 
 ---
 
-### 📫 Contato
+## 📫 Contato
 
 📧 **E-mail profissional**: [📬 Enviar e-mail](mailto:contact.neusam21@gmail.com)  
 💼 **Disponível para freelas e colaborações**
 
 ---
 
-### ✨ Curiosidade
+## ✨ Curiosidade
 
 > "Automação não é sobre substituir pessoas. É sobre **libertar tempo** para o que realmente importa."  
 — NeusaM21
+
 
