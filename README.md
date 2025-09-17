@@ -20,9 +20,6 @@
   <a href="https://github.com/NeusaM21">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/seu-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
   <a href="mailto:contact.neusam21@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -79,7 +76,7 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeusaM21&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NeusaM21&show_icons=true&theme=radical&hide_rank=true" alt="GitHub stats" />
 </p>
 
 <p align="center">
@@ -99,5 +96,3 @@
 
 > "Automação não é sobre substituir pessoas. É sobre **libertar tempo** para o que realmente importa."  
 — NeusaM21
->
-> ---
