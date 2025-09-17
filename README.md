@@ -10,10 +10,23 @@
 
 <h2 align="center">👋 Olá! Eu sou a NeusaM21</h2>
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
-![Automation & AI Specialist](https://img.shields.io/badge/Automation_&_AI-Specialist-blueviolet?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Automation-IA-blueviolet?style=for-the-badge&logo=robotframework&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-Projects-success?style=for-the-badge&logo=github"/>
+</p>
 
+<p align="center">
+  <a href="https://github.com/NeusaM21">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/seu-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:contact.neusam21@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 <h3 align="center">💻 Dev Python | 🤖 Automação & IA | ⚙️ Projetos práticos e funcionais</h3>
 
@@ -21,22 +34,22 @@
 
 ## 💡 Sobre mim
 
-🎯 **Atuando na área de automação de processos com Python e Inteligência Artificial aplicada, com foco em aprendizado contínuo e desenvolvimento de soluções práticas para desafios reais.**  
-🚀 **Desenvolvo projetos que otimizam fluxos operacionais, automatizam tarefas manuais e geram impacto direto nos negócios através de tecnologias inteligentes.**  
-👩‍💻 **Tenho experiência em iniciativas voltadas para eficiência, escalabilidade e integração de sistemas via APIs, buscando sempre entregar soluções funcionais e bem estruturadas.**  
-🌐 **Familiarizada com ferramentas no-code e plataformas de automação, acompanhando as tendências e inovações do ecossistema tecnológico.**  
-📚 **Comprometida com a evolução constante, aplicando as melhores práticas e explorando novas possibilidades em IA, automação e desenvolvimento ágil.**
+🎯 **Atuo em automação de processos com Python e Inteligência Artificial aplicada, com foco em aprendizado contínuo e soluções práticas para desafios reais.**  
+🚀 **Desenvolvo projetos que otimizam fluxos operacionais, automatizam tarefas manuais e geram impacto direto nos negócios.**  
+👩‍💻 **Experiência em eficiência, escalabilidade e integração de sistemas via APIs, sempre buscando soluções funcionais e bem estruturadas.**  
+🌐 **Familiaridade com ferramentas no-code e plataformas de automação, acompanhando tendências e inovações do ecossistema tecnológico.**  
+📚 **Compromisso com evolução constante, aplicando melhores práticas e explorando novas possibilidades em IA, automação e desenvolvimento ágil.**
 
 ---
 
 ## 🛠️ Tecnologias que uso
 
-🐍 **Python** – Desenvolvimento de automações, scripts e integrações inteligentes  
-🔧 **Flask | Pandas | Selenium | OpenAI | Gemini | APIs REST** – Construção de soluções eficientes com foco em dados e IA aplicada  
+🐍 **Python** – Automações, scripts e integrações inteligentes  
+🔧 **Flask | Pandas | Selenium | OpenAI | Gemini | APIs REST** – Construção de soluções eficientes em dados e IA  
 🌐 **Git | GitHub | VS Code | Google Colab** – Versionamento, colaboração e desenvolvimento ágil  
-📊 **Excel + Python** – Automação de relatórios, dashboards e processos operacionais  
-⚡ **Plataformas No-Code (Make, Zapier)** – Integração de fluxos inteligentes sem código para acelerar resultados  
-🚀 **Tecnologias emergentes** – Sempre em busca das melhores práticas e tendências em IA e automação para potencializar negócios
+📊 **Excel + Python** – Dashboards, relatórios e processos operacionais automatizados  
+⚡ **No-Code (Make, Zapier)** – Integração de fluxos inteligentes sem código  
+🚀 **Tecnologias emergentes** – Em busca constante das melhores práticas para potencializar negócios
 
 ---
 
@@ -55,7 +68,7 @@
   Simulação de automação completa para e-commerce com IA — da captação de leads à conversão em vendas, usando Shopify, Klaviyo, Python e Zapier.
 
 - 📁 [**projeto-portfolio**](https://github.com/NeusaM21/projeto-portfolio)  
-  Meu repositório central com links e resumos de todos os meus projetos de automação, inteligência artificial e integrações no-code.
+  Meu repositório central com links e resumos de todos os meus projetos de automação, IA e integrações no-code.
 
 - 📁 [**whatsapp-sheets-email-bot**](https://github.com/NeusaM21/whatsapp-sheets-email-bot)  
   Webhook do WhatsApp que salva leads no **Google Sheets** e envia e-mails automáticos via **Gmail (SMTP)**.  
@@ -63,10 +76,21 @@
 
 ---
 
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NeusaM21&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeusaM21&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+---
+
 ### 📫 Contato
 
-📧 **E-mail profissional**: [📬 Enviar e-mail](mailto:contact.neusam21@gmail.com)
-
+📧 **E-mail profissional**: [📬 Enviar e-mail](mailto:contact.neusam21@gmail.com)  
 💼 **Disponível para freelas e colaborações**
 
 ---
@@ -75,5 +99,5 @@
 
 > "Automação não é sobre substituir pessoas. É sobre **libertar tempo** para o que realmente importa."  
 — NeusaM21
-
----
+>
+> ---
