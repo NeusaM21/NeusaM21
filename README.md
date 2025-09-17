@@ -51,11 +51,15 @@
 - 📁 [**pdf-insight-bot**](https://github.com/NeusaM21/pdf-insight-bot)  
   Extraia respostas e insights de PDFs com IA. Criação com LangChain, Gemini, Streamlit e OpenAI.
 
-- 📁 [ecommerce-marketing-automation-project](https://github.com/NeusaM21/ecommerce-marketing-automation-project) 
+- 📁 [**ecommerce-marketing-automation-project**](https://github.com/NeusaM21/ecommerce-marketing-automation-project)  
   Simulação de automação completa para e-commerce com IA — da captação de leads à conversão em vendas, usando Shopify, Klaviyo, Python e Zapier.
 
 - 📁 [**projeto-portfolio**](https://github.com/NeusaM21/projeto-portfolio)  
   Meu repositório central com links e resumos de todos os meus projetos de automação, inteligência artificial e integrações no-code.
+
+- 📁 [**whatsapp-sheets-email-bot**](https://github.com/NeusaM21/whatsapp-sheets-email-bot)  
+  Webhook do WhatsApp que salva leads no **Google Sheets** e envia e-mails automáticos via **Gmail (SMTP)**.  
+  Stack: Python · Flask · Google Sheets API · Gmail SMTP · SQLite · Logs
 
 ---
 
