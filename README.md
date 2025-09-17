@@ -76,11 +76,11 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeusaM21&show_icons=true&theme=radical&hide_rank=true&cache_seconds=21600" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NeusaM21&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeusaM21&layout=compact&theme=radical&cache_seconds=21600&hide=html,powershell" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeusaM21&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
@@ -96,3 +96,4 @@
 
 > "Automação não é sobre substituir pessoas. É sobre **libertar tempo** para o que realmente importa."  
 — NeusaM21
+
