@@ -8,7 +8,8 @@
 </p>
 <br/>
 
-<h2 align="center">👋 Olá! Eu sou a NeusaM21</h2>
+<h2 align="center">🌍 Criando projetos que conectam pessoas e tecnologia</h2>
+<h3 align="center">🚀 Minha missão: levar IA e automação para o mundo real</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -28,6 +29,7 @@
 <h3 align="center">💻 Dev Python | 🤖 Automação & IA | ⚙️ Projetos práticos e funcionais</h3>
 
 ---
+
 
 ## 💡 Sobre mim
 
