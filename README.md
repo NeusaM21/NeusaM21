@@ -18,11 +18,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/NeusaM21">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
   <a href="mailto:contact.neusam21@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/📬 Contato por Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/NeusaM21">
+    <img src="https://img.shields.io/badge/🌐 GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -30,48 +30,47 @@
 
 ---
 
-
 ## 💡 Sobre mim
 
-🎯 **Atuo em automação de processos com Python e Inteligência Artificial aplicada, com foco em aprendizado contínuo e soluções práticas para desafios reais.**  
-🚀 **Desenvolvo projetos que otimizam fluxos operacionais, automatizam tarefas manuais e geram impacto direto nos negócios.**  
-👩‍💻 **Experiência em eficiência, escalabilidade e integração de sistemas via APIs, sempre buscando soluções funcionais e bem estruturadas.**  
-🌐 **Familiaridade com ferramentas no-code e plataformas de automação, acompanhando tendências e inovações do ecossistema tecnológico.**  
-📚 **Compromisso com evolução constante, aplicando melhores práticas e explorando novas possibilidades em IA, automação e desenvolvimento ágil.**
+🎯 **Especialista em automação de processos com Python e Inteligência Artificial aplicada, criando soluções práticas e de impacto.**  
+🚀 **Desenvolvo projetos que otimizam fluxos, eliminam tarefas repetitivas e aumentam a eficiência de negócios reais.**  
+👩‍💻 **Experiência sólida em integrações via APIs, escalabilidade e boas práticas de desenvolvimento.**  
+🌐 **Familiaridade com ferramentas no-code (Make, Zapier) e plataformas de automação modernas.**  
+📚 **Comprometida em evolução contínua, acompanhando tendências e aplicando as melhores práticas em IA e automação.**
 
 ---
 
 ## 🛠️ Tecnologias que uso
 
-🐍 **Python** – Automações, scripts e integrações inteligentes  
-🔧 **Flask | Pandas | Selenium | OpenAI | Gemini | APIs REST** – Construção de soluções eficientes em dados e IA  
-🌐 **Git | GitHub | VS Code | Google Colab** – Versionamento, colaboração e desenvolvimento ágil  
-📊 **Excel + Python** – Dashboards, relatórios e processos operacionais automatizados  
-⚡ **No-Code (Make, Zapier)** – Integração de fluxos inteligentes sem código  
-🚀 **Tecnologias emergentes** – Em busca constante das melhores práticas para potencializar negócios
+🐍 **Python** – Scripts, automações e integrações inteligentes  
+🔧 **Flask | Pandas | Selenium | OpenAI | Gemini | APIs REST** – Construção de soluções funcionais em dados e IA  
+🌐 **Git | GitHub | VS Code | Google Colab** – Versionamento e colaboração  
+📊 **Excel + Python** – Dashboards, relatórios e análises automatizadas  
+⚡ **No-Code (Make, Zapier)** – Integração de fluxos inteligentes  
+🚀 **Tecnologias emergentes** – Sempre explorando novas possibilidades para negócios
 
 ---
 
-## 📌 Repositórios em Destaque (PT-BR)
-
-- 📁 [**smart-integration-leads**](https://github.com/NeusaM21/smart-integration-leads)  
-  Automação inteligente para captação e nutrição de leads com Make, GPT-4 e CRM. Integração completa, 100% no-code e pronta para uso real.
-
-- 📁 [**email_bot**](https://github.com/NeusaM21/email_bot)  
-  Bot em Python para envio automático de e-mails personalizados via Excel. Ideal para cobranças, lembretes, marketing e atendimentos recorrentes.
-
-- 📁 [**pdf-insight-bot**](https://github.com/NeusaM21/pdf-insight-bot)  
-  Extraia respostas e insights de PDFs com IA. Criação com LangChain, Gemini, Streamlit e OpenAI.
-
-- 📁 [**ecommerce-marketing-automation-project**](https://github.com/NeusaM21/ecommerce-marketing-automation-project)  
-  Simulação de automação completa para e-commerce com IA — da captação de leads à conversão em vendas, usando Shopify, Klaviyo, Python e Zapier.
-
-- 📁 [**projeto-portfolio**](https://github.com/NeusaM21/projeto-portfolio)  
-  Meu repositório central com links e resumos de todos os meus projetos de automação, IA e integrações no-code.
+## 📌 Repositórios em Destaque
 
 - 📁 [**whatsapp-sheets-email-bot**](https://github.com/NeusaM21/whatsapp-sheets-email-bot)  
   Webhook do WhatsApp que salva leads no **Google Sheets** e envia e-mails automáticos via **Gmail (SMTP)**.  
   Stack: Python · Flask · Google Sheets API · Gmail SMTP · SQLite · Logs
+
+- 📁 [**email_bot**](https://github.com/NeusaM21/email_bot)  
+  Bot em Python para envio automático de e-mails personalizados via Excel. Ideal para cobranças, lembretes e marketing.
+
+- 📁 [**pdf-insight-bot**](https://github.com/NeusaM21/pdf-insight-bot)  
+  Extraia respostas e insights de PDFs com IA. Construído com LangChain, Gemini, FAISS e Streamlit.
+
+- 📁 [**smart-integration-leads**](https://github.com/NeusaM21/smart-integration-leads)  
+  Integração inteligente de leads com Make + GPT + CRM. Automação no-code, funcional e pronta para uso real.
+
+- 📁 [**ecommerce-marketing-automation-project**](https://github.com/NeusaM21/ecommerce-marketing-automation-project)  
+  Automação para e-commerce: da captação de leads à conversão em vendas, com IA, Python e ferramentas de marketing.
+
+- 📁 [**projeto-portfolio**](https://github.com/NeusaM21/projeto-portfolio)  
+  Repositório central com links e resumos de todos os projetos de automação, IA e integrações.
 
 ---
 
@@ -82,13 +81,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeusaM21&layout=compact&theme=radical" height="150" alt="Top Langs"/>
 </p>
 
-
 ---
 
 ## 📫 Contato
 
-📧 **E-mail profissional**: [📬 Enviar e-mail](mailto:contact.neusam21@gmail.com)  
-💼 **Disponível para freelas e colaborações**
+📧 **E-mail profissional**: [contact.neusam21@gmail.com](mailto:contact.neusam21@gmail.com)  
+💼 **Aberta a freelas e colaborações internacionais**  
 
 ---
 
