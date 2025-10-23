@@ -53,24 +53,33 @@
 
 ## 📌 Repositórios em Destaque
 
+- 📁 [**enterprise-ai-automation-agent**](https://github.com/NeusaM21/enterprise-ai-automation-agent)  
+  Agente corporativo de **IA + automação** que integra **WhatsApp**, **Shopify** e **Google Gemini AI** para conversas inteligentes e suporte automatizado em e-commerce.  
+  Stack: Python · FastAPI · Google Gemini · Shopify API · WhatsApp Cloud API · HTML Anchors · REST API
+
 - 📁 [**whatsapp-sheets-email-bot**](https://github.com/NeusaM21/whatsapp-sheets-email-bot)  
   Webhook do WhatsApp que salva leads no **Google Sheets** e envia e-mails automáticos via **Gmail (SMTP)**.  
   Stack: Python · Flask · Google Sheets API · Gmail SMTP · SQLite · Logs
 
 - 📁 [**email_bot**](https://github.com/NeusaM21/email_bot)  
-  Bot em Python para envio automático de e-mails personalizados via Excel. Ideal para cobranças, lembretes e marketing.
+  Bot em Python para envio automático de e-mails personalizados via Excel. Ideal para cobranças, lembretes e marketing.  
+  Stack: Python · smtplib · pandas · Excel
 
 - 📁 [**pdf-insight-bot**](https://github.com/NeusaM21/pdf-insight-bot)  
-  Extraia respostas e insights de PDFs com IA. Construído com LangChain, Gemini, FAISS e Streamlit.
+  Extraia respostas e insights de PDFs com IA. Construído com **LangChain**, **Gemini**, **FAISS** e **Streamlit**.  
+  Stack: Python · LangChain · FAISS · Streamlit · Gemini AI
 
 - 📁 [**smart-integration-leads**](https://github.com/NeusaM21/smart-integration-leads)  
-  Integração inteligente de leads com Make + GPT + CRM. Automação no-code, funcional e pronta para uso real.
+  Integração inteligente de leads com **Make + GPT + CRM**. Automação **no-code**, funcional e pronta para uso real.  
+  Stack: Make · GPT API · HubSpot CRM · Google Sheets
 
 - 📁 [**ecommerce-marketing-automation-project**](https://github.com/NeusaM21/ecommerce-marketing-automation-project)  
-  Automação para e-commerce: da captação de leads à conversão em vendas, com IA, Python e ferramentas de marketing.
+  Automação para e-commerce: da captação de leads à conversão em vendas, com IA, Python e ferramentas de marketing.  
+  Stack: Python · APIs · GPT · Google Ads · CRM Integration
 
 - 📁 [**projeto-portfolio**](https://github.com/NeusaM21/projeto-portfolio)  
-  Repositório central com links e resumos de todos os projetos de automação, IA e integrações.
+  Repositório central com links e resumos de todos os projetos de automação, IA e integrações.  
+  Stack: Markdown · GitHub · Documentação
 
 ---
 
