@@ -10,6 +10,10 @@
 
 <br/>
 
+<p align="center">
+  Certified by <strong>IBM</strong> — Machine Learning with Python 🧠
+</p>
+
 <h2 align="center">🌍 Criando projetos que conectam pessoas e tecnologia / Creating projects that connect people and technology</h2>
 <h3 align="center">🚀 Minha missão: levar IA e automação para o mundo real / My mission: bring AI and automation to the real world</h3>
 
