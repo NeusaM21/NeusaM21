@@ -1,11 +1,13 @@
 ## 🎓 Certificações
 
 <br/>
+
 <p align="center">
   <a href="https://www.credly.com/badges/baad4ec1-70c7-4d20-8e5b-94c946222618/public_url" target="_blank">
-    <img src="https://raw.githubusercontent.com/NeusaM21/NeusaM21/main/machine-learning-with-python-v2.png" alt="IBM ML Badge" width="160"/>
+    <img src="https://github.com/user-attachments/assets/d7d46cf3-e863-4393-9705-49c03f1349b0" alt="IBM Machine Learning Badge" width="220"/>
   </a>
 </p>
+
 <br/>
 
 <h2 align="center">🌍 Criando projetos que conectam pessoas e tecnologia / Creating projects that connect people and technology</h2>
