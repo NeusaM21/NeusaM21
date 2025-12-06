@@ -68,6 +68,11 @@
 
 ## 📌 Repositórios em Destaque / Featured Repositories
 
+- 📁 [**smart-whatsapp-ai-crm**](https://github.com/NeusaM21/smart-whatsapp-ai-crm)  
+  CRM inteligente para **WhatsApp com IA**, focado em **automação de vendas, atendimento em tempo real e qualificação de leads** usando **FastAPI, Google Gemini e PostgreSQL (Supabase)**.  
+  **AI-powered WhatsApp CRM for sales automation, real-time support, and intelligent lead qualification using FastAPI, Google Gemini, and PostgreSQL.**  
+  Stack: Python · FastAPI · Google Gemini AI · PostgreSQL (Supabase) · SQLAlchemy Async · Pydantic · REST API
+
 - 📁 [**enterprise-ai-automation-agent**](https://github.com/NeusaM21/enterprise-ai-automation-agent)  
   Agente corporativo de **IA + automação** que integra **WhatsApp**, **Shopify** e **Google Gemini AI** para conversas inteligentes e suporte automatizado em e-commerce.  
   **Enterprise-grade AI automation agent integrating WhatsApp, Shopify, and Google Gemini AI for intelligent customer support and sales.**  
@@ -84,8 +89,8 @@
   Stack: Python · smtplib · pandas · Excel
 
 - 📁 [**pdf-insight-bot**](https://github.com/NeusaM21/pdf-insight-bot)  
-  Extraia respostas e insights de PDFs com IA. Construído com **LangChain**, **Gemini**, **FAISS** e **Streamlit**.  
-  **Extracts insights from PDFs with AI. Built with LangChain, Gemini, FAISS, and Streamlit.**  
+  Extração de respostas e insights de PDFs com IA. Construído com **LangChain**, **Gemini**, **FAISS** e **Streamlit**.  
+  **AI-powered PDF insights extraction built with LangChain, Gemini, FAISS, and Streamlit.**  
   Stack: Python · LangChain · FAISS · Streamlit · Gemini AI
 
 - 📁 [**smart-integration-leads**](https://github.com/NeusaM21/smart-integration-leads)  
