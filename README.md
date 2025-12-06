@@ -113,8 +113,8 @@
 ## 📊 Estatísticas do GitHub / GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeusaM21&show_icons=true&theme=radical&cache_seconds=1800" height="150" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeusaM21&layout=compact&theme=radical&cache_seconds=1800" height="150" alt="Top Langs"/>
+  <img src="assets/github-stats.png" width="420" alt="GitHub Stats"/>
+  <img src="assets/top-langs.png" width="420" alt="Top Languages"/>
 </p>
 
 ---
