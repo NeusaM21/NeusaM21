@@ -41,26 +41,26 @@
 
 ## 💡 About Me
 
-🎯 **Process automation specialist with Python and applied Artificial Intelligence, building practical and high-impact solutions.**
+🎯 Specialist in process automation with Python and applied Artificial Intelligence, creating practical and high-impact solutions for real businesses.
 
-🚀 **I develop projects that optimize workflows, eliminate repetitive tasks, and increase the efficiency of real businesses.**
+🚀 I develop projects that optimize operational workflows, eliminate repetitive tasks, and increase efficiency through APIs, AI, and intelligent automation.
 
-👩‍💻 **Strong experience with API integrations, scalability, and best development practices.**
+👩‍💻 Solid experience with API integrations, webhooks, system scalability, and best development practices.
 
-🌐 **Familiar with no-code tools (Make, Zapier) and modern automation platforms.**
+🌐 Familiar with no-code tools (Make, Zapier) and modern automation platforms integrated with database-driven systems.
 
-📚 **Committed to continuous growth, keeping up with trends and best practices in AI and automation.**
+📚 Committed to continuous growth, keeping up with trends and applying best practices in AI, automation, and intelligent systems.
 
 ---
 
 ## 🛠️ Technologies I Use
 
-🐍 **Python** – Scripts, automations, and smart integrations  
-🔧 **Flask | Pandas | Selenium | OpenAI | Gemini | REST APIs** – Data and AI solutions  
-🌐 **Git | GitHub | VS Code | Google Colab** – Version control and collaboration  
-📊 **Excel + Python** – Dashboards, reports, and automated analysis  
-⚡ **No-Code (Make, Zapier)** – Smart workflow integrations  
-🚀 **Emerging technologies** – Always exploring new possibilities for business
+🤖 **Conversational AI with Gemini (Google AI)** – Intelligent virtual assistants for sales, support, and automatic lead qualification  
+⚡ **FastAPI** – High-performance asynchronous API development for automation and Artificial Intelligence systems  
+🗄️ **PostgreSQL (Supabase)** – Relational database for CRM, leads, chat history, and customer data  
+📨 **WhatsApp API & Webhooks Integration** – Customer service automation, lead capture, and real-time responses  
+🔐 **Production-Ready Authentication, Webhooks & Integrations** – Secure systems prepared for real business usage  
+🧠 **Prompt Engineering for Business Applications** – Strategic prompts for sales, scheduling, and automated support
 
 ---
 
