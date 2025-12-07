@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/🇧🇷%20Vers%C3%A3o%20em%20Portugu%C3%AAs-success?style=for-the-badge&logo=googletranslate&logoColor=white"/>
+  </a>
+</p>
+
 ## 🎓 Certifications
 
 <br/>
