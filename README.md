@@ -55,12 +55,12 @@
 
 ## 🛠️ Tecnologias que uso
 
-🐍 **Python** – Scripts, automações e integrações inteligentes  
-🔧 **Flask | Pandas | Selenium | OpenAI | Gemini | APIs REST** – Soluções em dados e IA  
-🌐 **Git | GitHub | VS Code | Google Colab** – Versionamento e colaboração  
-📊 **Excel + Python** – Dashboards, relatórios e análises automatizadas  
-⚡ **No-Code (Make, Zapier)** – Integração de fluxos inteligentes  
-🚀 **Tecnologias emergentes** – Sempre explorando novas possibilidades para negócios
+🤖 **IA Conversacional com Gemini (Google AI)** – Criação de assistentes virtuais inteligentes para vendas, suporte e qualificação automática de leads  
+⚡ **FastAPI** – Desenvolvimento de APIs assíncronas de alta performance para sistemas de automação e Inteligência Artificial  
+🗄️ **PostgreSQL (Supabase)** – Banco de dados relacional para CRM, leads, histórico de conversas e clientes  
+📨 **Integração com WhatsApp (APIs e Webhooks)** – Automação de atendimentos, captura de leads e respostas em tempo real  
+🔐 **Autenticação, Webhooks e Integrações em Produção** – Sistemas seguros e prontos para uso real por empresas  
+🧠 **Engenharia de Prompts aplicada a Negócios** – Prompts estratégicos para vendas, agendamentos e suporte automatizado
 
 ---
 
