@@ -41,15 +41,15 @@
 
 ## 💡 Sobre mim
 
-🎯 **Especialista em automação de processos com Python e Inteligência Artificial aplicada, criando soluções práticas e de impacto.**
+🎯 Especialista em automação de processos com Python e Inteligência Artificial aplicada, criando soluções práticas e de impacto para negócios reais.
 
-🚀 **Desenvolvo projetos que otimizam fluxos, eliminam tarefas repetitivas e aumentam a eficiência de negócios reais.**
+🚀 Desenvolvo projetos que otimizam fluxos operacionais, eliminam tarefas repetitivas e aumentam a eficiência por meio de APIs, IA e automações inteligentes.
 
-👩‍💻 **Experiência sólida em integrações via APIs, escalabilidade e boas práticas de desenvolvimento.**
+👩‍💻 Experiência sólida em integrações via APIs, webhooks, escalabilidade de sistemas e boas práticas de desenvolvimento.
 
-🌐 **Familiaridade com ferramentas no-code (Make, Zapier) e plataformas modernas de automação.**
+🌐 Familiaridade com ferramentas no-code (Make, Zapier) e plataformas modernas de automação integradas a sistemas com banco de dados.
 
-📚 **Comprometida com evolução contínua, acompanhando tendências e aplicando as melhores práticas em IA e automação.**
+📚 Comprometida com evolução contínua, acompanhando tendências e aplicando as melhores práticas em IA, automação e sistemas inteligentes.
 
 ---
 
