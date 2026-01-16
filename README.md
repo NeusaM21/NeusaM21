@@ -111,11 +111,17 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="assets/github-stats.png" width="420" alt="GitHub Stats"/>
-  <img src="assets/top-langs.png" width="420" alt="Top Languages"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=NeusaM21&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+    width="420"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeusaM21&layout=compact&theme=radical&hide_border=true"
+    width="420"
+  />
 </p>
 
 ---
