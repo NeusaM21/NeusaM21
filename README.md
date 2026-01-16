@@ -72,37 +72,42 @@
 
 ## 📌 Repositórios em Destaque
 
+- 🤖 [**olhar-sob-medida**](https://github.com/NeusaM21/olhar-sob-medida)  
+  Sistema de **automação inteligente via WhatsApp com LLM controlado**, focado em **atendimento ao cliente, agendamento automático e tomada de decisão segura em produção**. Arquitetura **anti-alucinação**, com **pipeline determinístico**, **controle humano (human-in-the-loop)** e **fontes externas como source of truth**.  
+  **Stack:** Python · FastAPI · Google Gemini (LLM) · WhatsApp (Z-API) · Google Sheets · Render  
+  👉 Projeto **em produção**, com foco em **IA aplicada a negócios reais**.
+
 - 📁 [**smart-whatsapp-ai-crm**](https://github.com/NeusaM21/smart-whatsapp-ai-crm)  
-  CRM inteligente para **WhatsApp com IA**, focado em **automação de vendas, atendimento em tempo real e qualificação de leads** usando **FastAPI, Google Gemini e PostgreSQL (Supabase)**.  
-  Stack: Python · FastAPI · Google Gemini AI · PostgreSQL · SQLAlchemy Async · REST API
+  CRM inteligente para **WhatsApp com IA**, voltado para **automação de vendas, atendimento em tempo real e qualificação de leads**, com persistência de dados e arquitetura escalável.  
+  **Stack:** Python · FastAPI · Google Gemini AI · PostgreSQL (Supabase) · SQLAlchemy Async · REST API
 
 - 📁 [**enterprise-ai-automation-agent**](https://github.com/NeusaM21/enterprise-ai-automation-agent)  
-  Agente corporativo de **IA + automação** que integra **WhatsApp, Shopify e Google Gemini AI** para suporte e vendas automatizadas.  
-  Stack: Python · FastAPI · Gemini · Shopify API · WhatsApp API · REST API
+  Agente corporativo de **IA + automação** que integra **WhatsApp, Shopify e Google Gemini AI** para **suporte, vendas automatizadas e fluxos empresariais inteligentes**.  
+  **Stack:** Python · FastAPI · Gemini AI · Shopify API · WhatsApp API · REST API
 
 - 📁 [**whatsapp-sheets-email-bot**](https://github.com/NeusaM21/whatsapp-sheets-email-bot)  
-  Webhook do WhatsApp que salva leads no **Google Sheets** e envia e-mails automáticos via **Gmail (SMTP)**.  
-  Stack: Python · Flask · Google Sheets API · Gmail SMTP · SQLite
+  Pipeline de automação que recebe mensagens do **WhatsApp**, registra leads no **Google Sheets** e dispara **e-mails automáticos**, com controle de duplicidade e logs.  
+  **Stack:** Python · Flask · Google Sheets API · Gmail SMTP · SQLite
 
 - 📁 [**email_bot**](https://github.com/NeusaM21/email_bot)  
-  Bot em Python para envio automático de e-mails personalizados via Excel.  
-  Stack: Python · smtplib · pandas · Excel
+  Bot em Python para **envio automatizado de e-mails personalizados** a partir de planilhas Excel, focado em produtividade e automação operacional.  
+  **Stack:** Python · smtplib · pandas · Excel
 
 - 📁 [**pdf-insight-bot**](https://github.com/NeusaM21/pdf-insight-bot)  
-  Extração de respostas e insights de PDFs com IA usando **LangChain, Gemini, FAISS e Streamlit**.  
-  Stack: Python · LangChain · FAISS · Streamlit · Gemini AI
+  Sistema de **extração de respostas e insights de PDFs com IA**, utilizando **RAG** para consultas inteligentes sobre documentos.  
+  **Stack:** Python · LangChain · FAISS · Streamlit · Gemini AI
 
 - 📁 [**smart-integration-leads**](https://github.com/NeusaM21/smart-integration-leads)  
-  Integração inteligente de leads com **Make + GPT + CRM**.  
-  Stack: Make · GPT API · HubSpot · Google Sheets
+  Integração inteligente de leads combinando **Make + GPT + CRM**, com automação de fluxo, enriquecimento de dados e organização comercial.  
+  **Stack:** Make · GPT API · HubSpot · Google Sheets
 
 - 📁 [**ecommerce-marketing-automation-project**](https://github.com/NeusaM21/ecommerce-marketing-automation-project)  
-  Automação para e-commerce com IA, captação de leads e conversão em vendas.  
-  Stack: Python · APIs · GPT · Google Ads · CRM
+  Automação para **e-commerce com IA**, focada em **captação de leads, nutrição e conversão em vendas**, integrando múltiplas APIs.  
+  **Stack:** Python · APIs · GPT · Google Ads · CRM
 
 - 📁 [**projeto-portfolio**](https://github.com/NeusaM21/projeto-portfolio)  
-  Repositório central com resumos de todos os projetos de automação e IA.  
-  Stack: Markdown · GitHub · Documentação
+  Repositório central que consolida **visão técnica, resumos e arquitetura** dos projetos de **automação e Inteligência Artificial**.  
+  **Stack:** Markdown · GitHub · Documentação
 
 ---
 
