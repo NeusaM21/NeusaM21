@@ -115,14 +115,14 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NeusaM21&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NeusaM21&theme=github_dark"
     width="420"
-    alt="GitHub Stats"
+    alt="GitHub Profile Summary"
   />
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NeusaM21&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NeusaM21&theme=github_dark"
     width="420"
-    alt="Top Languages"
+    alt="GitHub Language Summary"
   />
 </p>
 
