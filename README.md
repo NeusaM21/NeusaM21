@@ -111,7 +111,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity & Tech Stack Overview
 
 <p align="center">
   <img 
