@@ -4,44 +4,46 @@
   </a>
 </p>
 
-## 🎓 Certificações
+---
 
-<br/>
+## 🎓 Certificações
 
 <p align="center">
   <a href="https://www.credly.com/badges/baad4ec1-70c7-4d20-8e5b-94c946222618/public_url" target="_blank">
-    <img src="https://github.com/user-attachments/assets/d7d46cf3-e863-4393-9705-49c03f1349b0" alt="Certificação IBM Machine Learning" width="220"/>
+    <img src="https://github.com/user-attachments/assets/d7d46cf3-e863-4393-9705-49c03f1349b0" alt="Certificação IBM Machine Learning" width="200"/>
   </a>
 </p>
-
-<br/>
 
 <p align="center">
   Certificada pela <strong>IBM</strong> — Machine Learning with Python 🧠
 </p>
+
+---
 
 <h2 align="center">🌍 Criando projetos que conectam pessoas e tecnologia</h2>
 <h3 align="center">🚀 Minha missão: levar IA e automação para o mundo real</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Automação%20e%20IA-blueviolet?style=for-the-badge&logo=robotframework&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Projetos%20de%20Portf%C3%B3lio-success?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/IA%20%26%20Automa%C3%A7%C3%A3o-blueviolet?style=for-the-badge&logo=robotframework&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Projetos%20Prontos%20para%20Produ%C3%A7%C3%A3o-success?style=for-the-badge&logo=github"/>
 </p>
 
 <p align="center">
   <a href="mailto:contact.neusam21@gmail.com">
-    <img src="https://img.shields.io/badge/📬 Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/📬%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/NeusaM21">
-    <img src="https://img.shields.io/badge/🌐 GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🌐%20GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/neusam21/">
-    <img src="https://img.shields.io/badge/💼 LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
-<h3 align="center">💻 Dev Python | 🤖 Automação & IA | ⚙️ Projetos práticos e funcionais</h3>
+<h3 align="center">
+  💻 Dev Python · 🤖 Engenheira de IA & Automação · ⚙️ Sistemas prontos para produção
+</h3>
 
 ---
 
@@ -111,7 +113,7 @@
 
 ---
 
-## 📊 GitHub Activity & Tech Stack Overview
+## 📊 Atividade no GitHub & Visão Técnica Geral
 
 <p align="center">
   <img 
@@ -136,7 +138,7 @@
 
 ---
 
-## ✨ Curiosidade
+## ✨ Filosofia
 
 > "Automação não é sobre substituir pessoas. É sobre **libertar tempo** para o que realmente importa."  
 — **NeusaM21**
