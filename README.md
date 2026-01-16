@@ -74,6 +74,8 @@
 
 ## 📌 Repositórios em Destaque
 
+👉 **Veja abaixo projetos de automação com IA prontos para uso em produção** 👇
+
 - 🤖 [**olhar-sob-medida**](https://github.com/NeusaM21/olhar-sob-medida)  
   Sistema de **automação inteligente via WhatsApp com LLM controlado**, focado em **atendimento ao cliente, agendamento automático e tomada de decisão segura em produção**. Arquitetura **anti-alucinação**, com **pipeline determinístico**, **controle humano (human-in-the-loop)** e **fontes externas como source of truth**.  
   **Stack:** Python · FastAPI · Google Gemini (LLM) · WhatsApp (Z-API) · Google Sheets · Render  
