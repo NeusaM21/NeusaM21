@@ -74,7 +74,12 @@
 
 ## 📌 Repositórios em Destaque
 
-👉 **Veja abaixo projetos de automação com IA prontos para uso em produção** 👇
+👉 **Projetos de IA e automação desenvolvidos com foco em arquitetura corporativa, decisão controlada e uso real em produção** 👇
+
+- 🧠 [**autonomous-risk-decision-agent**](https://github.com/NeusaM21/autonomous-risk-decision-agent)  
+  Agente autônomo de **decisão de risco** para **varejo, fintechs e marketplaces**, projetado para **classificar riscos transacionais** e executar **ações automatizadas controladas** (`APPROVE`, `REQUEST_VERIFICATION`, `BLOCK_AND_ESCALATE`) com **audit logs**, **explicabilidade** e **human-in-the-loop**. Desenvolvido como um **bloco de decisão integrável**, refletindo padrões usados em ambientes corporativos regulados.  
+  **Stack:** Python · FastAPI · Pydantic · Pytest · Decision Rules Engine  
+  👉 Projeto focado em **decision intelligence**, não processamento de pagamentos reais.
 
 - 🤖 [**olhar-sob-medida**](https://github.com/NeusaM21/olhar-sob-medida)  
   Sistema de **automação inteligente via WhatsApp com LLM controlado**, focado em **atendimento ao cliente, agendamento automático e tomada de decisão segura em produção**. Arquitetura **anti-alucinação**, com **pipeline determinístico**, **controle humano (human-in-the-loop)** e **fontes externas como source of truth**.  
