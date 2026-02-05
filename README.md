@@ -47,19 +47,19 @@
 
 ---
 
-## 💡 Sobre mim
+💡 Sobre mim
 
-🎯 Especialista em **automação inteligente e sistemas de decisão autônoma**, aplicando IA de forma **controlada, explicável e pronta para produção**.
+🎯 Especializada no desenvolvimento de agentes autônomos de decisão, combinando regras determinísticas, IA generativa e arquitetura corporativa, com foco em sistemas explicáveis, auditáveis e prontos para produção.
 
-🚀 Desenvolvo **motores de decisão, agentes autônomos e pipelines de automação** que resolvem problemas reais de negócios, eliminando tarefas repetitivas e aumentando eficiência operacional.
+🚀 Desenvolvo motores de decisão, agentes autônomos e pipelines de automação que resolvem problemas reais de negócios, eliminam tarefas repetitivas e aumentam a eficiência operacional por meio de IA aplicada de forma responsável.
 
-🧠 Forte foco em **arquitetura corporativa**, **determinismo**, **auditabilidade** e **human-in-the-loop**, evitando soluções frágeis ou puramente “chatbotizadas”.
+🧠 Atuação forte em arquitetura corporativa, determinismo, auditabilidade e human-in-the-loop, priorizando soluções robustas e evitando abordagens frágeis ou puramente “chatbotizadas”.
 
-👩‍💻 Experiência sólida com **APIs, webhooks, sistemas assíncronos, testes, logs e escalabilidade**, sempre pensando em integração real com empresas.
+👩‍💻 Experiência sólida com APIs, webhooks, sistemas assíncronos, testes automatizados, observabilidade e escalabilidade, sempre orientada à integração real com ambientes empresariais.
 
-🌐 Familiaridade com **plataformas no-code (Make, Zapier)** e integração com bancos de dados, CRMs e sistemas externos.
+🌐 Familiaridade com plataformas no-code (Make, Zapier) e integração com bancos de dados, CRMs e sistemas externos, ampliando alcance e produtividade das automações.
 
-📚 Evolução contínua em **IA aplicada, Machine Learning, engenharia de prompts e decision intelligence**.
+📚 Evolução contínua em IA aplicada, Machine Learning, engenharia de prompts e decision intelligence, acompanhando tendências e aplicando boas práticas em sistemas inteligentes.
 
 ---
 
