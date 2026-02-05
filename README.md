@@ -45,6 +45,10 @@
   💻 Python Developer · 🤖 Engenheira de IA & Automação · 🧠 Decision Intelligence
 </h3>
 
+<p align="center">
+  <strong>Especialidade:</strong> Autonomous Agents · Decision Intelligence · Explainable AI · Business Automation
+</p>
+
 ---
 
 💡 Sobre mim
