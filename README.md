@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="README.en.md">
+  <a href="README_EN.md">
     <img src="https://img.shields.io/badge/🇺🇸%20Read%20in%20English-0A66C2?style=for-the-badge&logo=googletranslate&logoColor=white"/>
   </a>
 </p>
@@ -20,13 +20,13 @@
 
 ---
 
-<h2 align="center">🌍 Criando projetos que conectam pessoas e tecnologia</h2>
-<h3 align="center">🚀 Minha missão: levar IA e automação para o mundo real</h3>
+<h2 align="center">🌍 Criando projetos que conectam pessoas, negócios e tecnologia</h2>
+<h3 align="center">🚀 Minha missão: levar IA, automação e decisão inteligente para o mundo real</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/IA%20%26%20Automa%C3%A7%C3%A3o-blueviolet?style=for-the-badge&logo=robotframework&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Projetos%20Prontos%20para%20Produ%C3%A7%C3%A3o-success?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Sistemas%20de%20Decis%C3%A3o%20Aut%C3%B4noma-success?style=for-the-badge&logo=github"/>
 </p>
 
 <p align="center">
@@ -42,112 +42,115 @@
 </p>
 
 <h3 align="center">
-  💻 Dev Python · 🤖 Engenheira de IA & Automação · ⚙️ Sistemas prontos para produção
+  💻 Python Developer · 🤖 Engenheira de IA & Automação · 🧠 Decision Intelligence
 </h3>
 
 ---
 
 ## 💡 Sobre mim
 
-🎯 Especialista em automação de processos com Python e Inteligência Artificial aplicada, criando soluções práticas e de impacto para negócios reais.
+🎯 Especialista em **automação inteligente e sistemas de decisão autônoma**, aplicando IA de forma **controlada, explicável e pronta para produção**.
 
-🚀 Desenvolvo projetos que otimizam fluxos operacionais, eliminam tarefas repetitivas e aumentam a eficiência por meio de APIs, IA e automações inteligentes.
+🚀 Desenvolvo **motores de decisão, agentes autônomos e pipelines de automação** que resolvem problemas reais de negócios, eliminando tarefas repetitivas e aumentando eficiência operacional.
 
-👩‍💻 Experiência sólida em integrações via APIs, webhooks, escalabilidade de sistemas e boas práticas de desenvolvimento.
+🧠 Forte foco em **arquitetura corporativa**, **determinismo**, **auditabilidade** e **human-in-the-loop**, evitando soluções frágeis ou puramente “chatbotizadas”.
 
-🌐 Familiaridade com ferramentas no-code (Make, Zapier) e plataformas modernas de automação integradas a sistemas com banco de dados.
+👩‍💻 Experiência sólida com **APIs, webhooks, sistemas assíncronos, testes, logs e escalabilidade**, sempre pensando em integração real com empresas.
 
-📚 Comprometida com evolução contínua, acompanhando tendências e aplicando as melhores práticas em IA, automação e sistemas inteligentes.
+🌐 Familiaridade com **plataformas no-code (Make, Zapier)** e integração com bancos de dados, CRMs e sistemas externos.
+
+📚 Evolução contínua em **IA aplicada, Machine Learning, engenharia de prompts e decision intelligence**.
 
 ---
 
 ## 🛠️ Tecnologias que uso
 
-🤖 **IA Conversacional com Gemini (Google AI)** – Criação de assistentes virtuais inteligentes para vendas, suporte e qualificação automática de leads  
-⚡ **FastAPI** – Desenvolvimento de APIs assíncronas de alta performance para sistemas de automação e Inteligência Artificial  
-🗄️ **PostgreSQL (Supabase)** – Banco de dados relacional para CRM, leads, histórico de conversas e clientes  
-📨 **Integração com WhatsApp (APIs e Webhooks)** – Automação de atendimentos, captura de leads e respostas em tempo real  
-🔐 **Autenticação, Webhooks e Integrações em Produção** – Sistemas seguros e prontos para uso real por empresas  
-🧠 **Engenharia de Prompts aplicada a Negócios** – Prompts estratégicos para vendas, agendamentos e suporte automatizado
+🤖 **IA Generativa (Google Gemini)** — Assistentes inteligentes, análise contextual e suporte à decisão  
+⚡ **FastAPI** — APIs assíncronas, escaláveis e prontas para produção  
+🧠 **Decision Rules Engine** — Regras determinísticas, score de risco e decisões controladas  
+🗄️ **PostgreSQL / SQLite / Google Sheets** — Persistência, histórico e source of truth  
+📨 **WhatsApp APIs & Webhooks** — Automação de atendimento, vendas e captura de leads  
+🔐 **Audit Logs & Observabilidade** — Rastreabilidade completa de decisões  
+🧪 **Testes Automatizados (Pytest)** — Confiabilidade e previsibilidade de sistemas críticos
 
 ---
 
 ## 📌 Repositórios em Destaque
 
-👉 **Projetos de IA e automação desenvolvidos com foco em arquitetura corporativa, decisão controlada e uso real em produção** 👇
+👉 **Projetos de IA, automação e decisão inteligente**, desenvolvidos com foco em **arquitetura corporativa, explicabilidade e uso real em produção** 👇
 
 - 🧠 [**autonomous-risk-decision-agent**](https://github.com/NeusaM21/autonomous-risk-decision-agent)  
-  Agente autônomo de **decisão de risco** para **varejo, fintechs e marketplaces**, projetado para **classificar riscos transacionais** e executar **ações automatizadas controladas** (`APPROVE`, `REQUEST_VERIFICATION`, `BLOCK_AND_ESCALATE`) com **audit logs**, **explicabilidade** e **human-in-the-loop**. Desenvolvido como um **bloco de decisão integrável**, refletindo padrões usados em ambientes corporativos regulados.  
+  Agente autônomo de **decisão de risco** para **varejo, fintechs e marketplaces**, projetado para **classificar riscos transacionais** e executar **ações automatizadas controladas** (`APPROVE`, `REQUEST_VERIFICATION`, `BLOCK_AND_ESCALATE`) com **audit logs**, **explicabilidade** e **human-in-the-loop**.  
+  Desenvolvido como um **bloco de decisão integrável**, seguindo padrões de ambientes corporativos regulados.  
   **Stack:** Python · FastAPI · Pydantic · Pytest · Decision Rules Engine  
-  👉 Projeto focado em **decision intelligence**, não processamento de pagamentos reais.
+  👉 Foco em **decision intelligence**, não processamento de pagamentos reais.
+
+- 🧠🚀 [**autonomous-business-decision-agent**](https://github.com/NeusaM21/autonomous-business-decision-agent)  
+  Motor **autônomo de decisão de negócios**, **determinístico e explicável**, projetado para **avaliar contexto empresarial**, **classificar risco operacional** e **executar decisões automáticas controladas**, com **auditoria completa e rastreabilidade**.  
+  Implementa um **pipeline corporativo de decisão**, combinando **regras determinísticas**, **score**, **avaliação contextual** e **logs auditáveis**, pensado como **bloco plugável** para sistemas enterprise.  
+  **Stack:** Python · FastAPI · Pydantic · Pytest · Decision Rules Engine  
+  👉 Ideal para **varejo, fintechs, marketplaces e sistemas corporativos**, sem dados financeiros reais.
 
 - 🤖 [**olhar-sob-medida**](https://github.com/NeusaM21/olhar-sob-medida)  
-  Sistema de **automação inteligente via WhatsApp com LLM controlado**, focado em **atendimento ao cliente, agendamento automático e tomada de decisão segura em produção**. Arquitetura **anti-alucinação**, com **pipeline determinístico**, **controle humano (human-in-the-loop)** e **fontes externas como source of truth**.  
-  **Stack:** Python · FastAPI · Google Gemini (LLM) · WhatsApp (Z-API) · Google Sheets · Render  
-  👉 Projeto **em produção**, com foco em **IA aplicada a negócios reais**.
-
-- 📁 [**smart-whatsapp-ai-crm**](https://github.com/NeusaM21/smart-whatsapp-ai-crm)  
-  CRM inteligente para **WhatsApp com IA**, voltado para **automação de vendas, atendimento em tempo real e qualificação de leads**, com persistência de dados e arquitetura escalável.  
-  **Stack:** Python · FastAPI · Google Gemini AI · PostgreSQL (Supabase) · SQLAlchemy Async · REST API
+  Sistema de **automação inteligente via WhatsApp com LLM controlado**, focado em **atendimento ao cliente, agendamento automático e tomada de decisão segura**.  
+  Arquitetura **anti-alucinação**, com **pipeline determinístico**, **human-in-the-loop** e **fontes externas como source of truth**.  
+  **Stack:** Python · FastAPI · Google Gemini · WhatsApp API · Google Sheets · Render  
+  👉 Projeto em **produção real**.
 
 - 📁 [**enterprise-ai-automation-agent**](https://github.com/NeusaM21/enterprise-ai-automation-agent)  
-  Agente corporativo de **IA + automação** que integra **WhatsApp, Shopify e Google Gemini AI** para **suporte, vendas automatizadas e fluxos empresariais inteligentes**.  
-  **Stack:** Python · FastAPI · Gemini AI · Shopify API · WhatsApp API · REST API
+  Agente corporativo de **IA + automação**, integrando **WhatsApp, Shopify e Google Gemini**, para **vendas, suporte e fluxos empresariais inteligentes**.  
+  **Stack:** Python · FastAPI · Gemini AI · Shopify API · WhatsApp API
+
+- 📁 [**smart-whatsapp-ai-crm**](https://github.com/NeusaM21/smart-whatsapp-ai-crm)  
+  CRM inteligente para **WhatsApp com IA**, focado em **automação de vendas, atendimento e qualificação de leads**.  
+  **Stack:** Python · FastAPI · Gemini AI · PostgreSQL · SQLAlchemy Async
 
 - 📁 [**whatsapp-sheets-email-bot**](https://github.com/NeusaM21/whatsapp-sheets-email-bot)  
-  Pipeline de automação que recebe mensagens do **WhatsApp**, registra leads no **Google Sheets** e dispara **e-mails automáticos**, com controle de duplicidade e logs.  
-  **Stack:** Python · Flask · Google Sheets API · Gmail SMTP · SQLite
+  Pipeline de automação que integra **WhatsApp + Google Sheets + e-mail**, com controle de duplicidade e logs.  
+  **Stack:** Python · Flask · Google Sheets API · Gmail SMTP
 
 - 📁 [**email_bot**](https://github.com/NeusaM21/email_bot)  
-  Bot em Python para **envio automatizado de e-mails personalizados** a partir de planilhas Excel, focado em produtividade e automação operacional.  
-  **Stack:** Python · smtplib · pandas · Excel
+  Bot para **envio automatizado de e-mails personalizados** a partir de planilhas.  
+  **Stack:** Python · pandas · smtplib
 
 - 📁 [**pdf-insight-bot**](https://github.com/NeusaM21/pdf-insight-bot)  
-  Sistema de **extração de respostas e insights de PDFs com IA**, utilizando **RAG** para consultas inteligentes sobre documentos.  
+  Sistema de **extração de insights de PDFs com IA**, utilizando **RAG** para consultas inteligentes.  
   **Stack:** Python · LangChain · FAISS · Streamlit · Gemini AI
 
 - 📁 [**smart-integration-leads**](https://github.com/NeusaM21/smart-integration-leads)  
-  Integração inteligente de leads combinando **Make + GPT + CRM**, com automação de fluxo, enriquecimento de dados e organização comercial.  
+  Automação inteligente de leads usando **Make + GPT + CRM**.  
   **Stack:** Make · GPT API · HubSpot · Google Sheets
 
 - 📁 [**ecommerce-marketing-automation-project**](https://github.com/NeusaM21/ecommerce-marketing-automation-project)  
-  Automação para **e-commerce com IA**, focada em **captação de leads, nutrição e conversão em vendas**, integrando múltiplas APIs.  
-  **Stack:** Python · APIs · GPT · Google Ads · CRM
+  Automação de **marketing e vendas para e-commerce com IA**.  
+  **Stack:** Python · APIs · GPT · CRM
 
 - 📁 [**projeto-portfolio**](https://github.com/NeusaM21/projeto-portfolio)  
-  Repositório central que consolida **visão técnica, resumos e arquitetura** dos projetos de **automação e Inteligência Artificial**.  
-  **Stack:** Markdown · GitHub · Documentação
+  Repositório central de **documentação, visão técnica e arquitetura** dos projetos.  
+  **Stack:** Markdown · GitHub
 
 ---
 
-## 📊 Atividade no GitHub & Visão Técnica Geral
+## 📊 Atividade no GitHub
 
 <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NeusaM21&theme=github_dark"
-    width="420"
-    alt="GitHub Profile Summary"
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NeusaM21&theme=github_dark"
-    width="420"
-    alt="GitHub Language Summary"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NeusaM21&theme=github_dark" width="420"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NeusaM21&theme=github_dark" width="420"/>
 </p>
 
 ---
 
 ## 📫 Contato
 
-📧 **E-mail**: [contact.neusam21@gmail.com](mailto:contact.neusam21@gmail.com)  
-💼 **LinkedIn**: [https://www.linkedin.com/in/neusam21/](https://www.linkedin.com/in/neusam21/)  
-🚀 **Aberta a freelas e colaborações internacionais**
+📧 **E-mail:** contact.neusam21@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/neusam21/  
+🚀 **Aberta a freelas, projetos internacionais e desafios complexos**
 
 ---
 
 ## ✨ Filosofia
 
-> "Automação não é sobre substituir pessoas. É sobre **libertar tempo** para o que realmente importa."  
+> "Automação não é sobre substituir pessoas.  
+> É sobre **criar sistemas que tomam boas decisões** para libertar tempo humano."  
 — **NeusaM21**
-
 
