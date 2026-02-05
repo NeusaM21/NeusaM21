@@ -20,13 +20,13 @@
 
 ---
 
-<h2 align="center">🌍 Building projects that connect people and technology</h2>
-<h3 align="center">🚀 My mission: bringing AI and automation into the real world</h3>
+<h2 align="center">🌍 Building projects that connect people, business, and technology</h2>
+<h3 align="center">🚀 My mission: bring AI, automation, and intelligent decision-making to the real world</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI%20%26%20Automation-blueviolet?style=for-the-badge&logo=robotframework&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Production--Ready%20Projects-success?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Autonomous%20Decision%20Systems-success?style=for-the-badge&logo=github"/>
 </p>
 
 <p align="center">
@@ -42,107 +42,119 @@
 </p>
 
 <h3 align="center">
-  💻 Python Developer · 🤖 AI & Automation Engineer · ⚙️ Production-Ready Systems
+  💻 Python Developer · 🤖 AI & Automation Engineer · 🧠 Decision Intelligence
 </h3>
+
+<p align="center">
+  <strong>Specialty:</strong> Autonomous Agents · Decision Intelligence · Explainable AI · Business Automation
+</p>
 
 ---
 
 ## 💡 About Me
 
-🎯 Specialist in **process automation with Python and applied Artificial Intelligence**, creating practical, high-impact solutions for real businesses.
+🎯 Specialized in developing **autonomous decision-making agents**, combining **deterministic rules**, **generative AI**, and **enterprise-grade architecture**, with a strong focus on **explainable, auditable, and production-ready systems**.
 
-🚀 I build systems that **optimize operational workflows**, eliminate repetitive tasks, and boost efficiency through **APIs, AI models, and intelligent automation**.
+🚀 I build **decision engines, autonomous agents, and automation pipelines** that solve real business problems, eliminate repetitive tasks, and improve operational efficiency through **responsible AI application**.
 
-👩‍💻 Strong experience with **API integrations, webhooks, scalable architectures**, and production-grade development practices.
+🧠 Strong background in **enterprise architecture**, **determinism**, **auditability**, and **human-in-the-loop**, prioritizing robust solutions and avoiding fragile or purely “chatbot-based” approaches.
 
-🌐 Familiar with **no-code automation tools** (Make, Zapier) integrated with databases and modern backend systems.
+👩‍💻 Solid experience with **APIs, webhooks, asynchronous systems, automated testing, observability, and scalability**, always oriented toward **real-world enterprise integration**.
 
-📚 Deeply committed to continuous learning, staying up to date with the latest trends and best practices in **AI, automation, and intelligent systems**.
+🌐 Familiar with **no-code platforms (Make, Zapier)** and integrations with **databases, CRMs, and external systems**, expanding automation reach and productivity.
+
+📚 Continuous growth in **applied AI, Machine Learning, prompt engineering, and decision intelligence**, following industry trends and applying best practices in intelligent systems.
 
 ---
 
 ## 🛠️ Technologies I Use
 
-🤖 **Conversational AI with Gemini (Google AI)** — Intelligent virtual assistants for sales, support, and automated lead qualification  
-⚡ **FastAPI** — High-performance asynchronous APIs for automation and AI-driven systems  
-🗄️ **PostgreSQL (Supabase)** — Relational databases for CRM, leads, conversation history, and customer data  
-📨 **WhatsApp Integration (APIs & Webhooks)** — Automated customer service, lead capture, and real-time responses  
-🔐 **Authentication, Webhooks & Production Integrations** — Secure, real-world systems ready for business use  
-🧠 **Prompt Engineering for Business** — Strategic prompts for sales flows, scheduling, and automated support
+🤖 **Generative AI (Google Gemini)** — Intelligent assistants, contextual analysis, and decision support  
+⚡ **FastAPI** — Asynchronous, scalable, production-ready APIs  
+🧠 **Decision Rules Engine** — Deterministic rules, risk scoring, and controlled decisions  
+🗄️ **PostgreSQL / SQLite / Google Sheets** — Persistence, history, and source of truth  
+📨 **WhatsApp APIs & Webhooks** — Customer service, sales automation, and lead capture  
+🔐 **Audit Logs & Observability** — Full decision traceability  
+🧪 **Automated Testing (Pytest)** — Reliability and predictability for critical systems
 
 ---
 
 ## 📌 Featured Repositories
 
-👉 **Below are AI-powered automation projects ready for real-world production use** 👇
+👉 **AI, automation, and intelligent decision projects**, built with a focus on **enterprise architecture, explainability, and real-world production use** 👇
+
+- 🧠 [**autonomous-risk-decision-agent**](https://github.com/NeusaM21/autonomous-risk-decision-agent)  
+  Autonomous **risk decision agent** for **retail, fintechs, and marketplaces**, designed to **classify transactional risk** and execute **controlled automated actions** (`APPROVE`, `REQUEST_VERIFICATION`, `BLOCK_AND_ESCALATE`) with **audit logs**, **explainability**, and **human-in-the-loop**.  
+  Built as an **integrable decision block**, following patterns used in regulated enterprise environments.  
+  **Stack:** Python · FastAPI · Pydantic · Pytest · Decision Rules Engine  
+  👉 Focused on **decision intelligence**, not real payment processing.
+
+- 🧠🚀 [**autonomous-business-decision-agent**](https://github.com/NeusaM21/autonomous-business-decision-agent)  
+  **Autonomous business decision engine**, **deterministic and explainable**, designed to **evaluate business context**, **classify operational risk**, and **execute controlled automated decisions**, with **full auditability and traceability**.  
+  Implements a **corporate decision pipeline**, combining **deterministic rules**, **scoring**, **context evaluation**, and **audit logs**, designed as a **plug-and-play block** for enterprise systems.  
+  **Stack:** Python · FastAPI · Pydantic · Pytest · Decision Rules Engine  
+  👉 Ideal for **retail, fintechs, marketplaces, and corporate systems**, without real financial data.
 
 - 🤖 [**olhar-sob-medida**](https://github.com/NeusaM21/olhar-sob-medida)  
-  **Intelligent WhatsApp automation system with a controlled LLM**, focused on **customer service, automated scheduling, and safe decision-making in production**. Features an **anti-hallucination architecture**, **deterministic pipeline**, **human-in-the-loop control**, and **external sources as a single source of truth**.  
-  **Stack:** Python · FastAPI · Google Gemini (LLM) · WhatsApp (Z-API) · Google Sheets · Render  
-  👉 **Live production project**, focused on **AI applied to real businesses**.
-
-- 📁 [**smart-whatsapp-ai-crm**](https://github.com/NeusaM21/smart-whatsapp-ai-crm)  
-  Intelligent **WhatsApp CRM powered by AI**, designed for **sales automation, real-time support, and lead qualification**, with data persistence and scalable architecture.  
-  **Stack:** Python · FastAPI · Google Gemini AI · PostgreSQL (Supabase) · SQLAlchemy Async · REST API
+  **Intelligent WhatsApp automation system with controlled LLMs**, focused on **customer service, automated scheduling, and safe decision-making**.  
+  **Anti-hallucination architecture**, with **deterministic pipelines**, **human-in-the-loop**, and **external sources as the source of truth**.  
+  **Stack:** Python · FastAPI · Google Gemini · WhatsApp API · Google Sheets · Render  
+  👉 **Live production project**.
 
 - 📁 [**enterprise-ai-automation-agent**](https://github.com/NeusaM21/enterprise-ai-automation-agent)  
-  Corporate **AI + automation agent** integrating **WhatsApp, Shopify, and Google Gemini AI** for **automated support, sales workflows, and intelligent business processes**.  
-  **Stack:** Python · FastAPI · Gemini AI · Shopify API · WhatsApp API · REST API
+  Enterprise **AI + automation agent**, integrating **WhatsApp, Shopify, and Google Gemini** for **sales, support, and intelligent business workflows**.  
+  **Stack:** Python · FastAPI · Gemini AI · Shopify API · WhatsApp API
+
+- 📁 [**smart-whatsapp-ai-crm**](https://github.com/NeusaM21/smart-whatsapp-ai-crm)  
+  Intelligent **WhatsApp CRM with AI**, focused on **sales automation, customer support, and lead qualification**.  
+  **Stack:** Python · FastAPI · Gemini AI · PostgreSQL · Async SQLAlchemy
 
 - 📁 [**whatsapp-sheets-email-bot**](https://github.com/NeusaM21/whatsapp-sheets-email-bot)  
-  Automation pipeline that receives **WhatsApp messages**, stores leads in **Google Sheets**, and sends **automated emails**, with duplicate control and logging.  
-  **Stack:** Python · Flask · Google Sheets API · Gmail SMTP · SQLite
+  Automation pipeline integrating **WhatsApp + Google Sheets + email**, with deduplication control and logs.  
+  **Stack:** Python · Flask · Google Sheets API · Gmail SMTP
 
 - 📁 [**email_bot**](https://github.com/NeusaM21/email_bot)  
-  Python bot for **automated, personalized email sending** from Excel spreadsheets, focused on productivity and operational automation.  
-  **Stack:** Python · smtplib · pandas · Excel
+  Bot for **automated personalized email sending** from spreadsheets.  
+  **Stack:** Python · pandas · smtplib
 
 - 📁 [**pdf-insight-bot**](https://github.com/NeusaM21/pdf-insight-bot)  
-  **AI-powered PDF insight and Q&A system**, using **RAG (Retrieval-Augmented Generation)** for intelligent document querying.  
+  **PDF insight extraction system with AI**, using **RAG** for intelligent document queries.  
   **Stack:** Python · LangChain · FAISS · Streamlit · Gemini AI
 
 - 📁 [**smart-integration-leads**](https://github.com/NeusaM21/smart-integration-leads)  
-  Smart lead integration combining **Make + GPT + CRM**, with automated workflows, data enrichment, and sales organization.  
+  Intelligent lead automation using **Make + GPT + CRM**.  
   **Stack:** Make · GPT API · HubSpot · Google Sheets
 
 - 📁 [**ecommerce-marketing-automation-project**](https://github.com/NeusaM21/ecommerce-marketing-automation-project)  
-  **AI-driven e-commerce automation**, focused on **lead generation, nurturing, and sales conversion**, integrating multiple APIs.  
-  **Stack:** Python · APIs · GPT · Google Ads · CRM
+  **AI-powered marketing and sales automation for e-commerce**.  
+  **Stack:** Python · APIs · GPT · CRM
 
 - 📁 [**projeto-portfolio**](https://github.com/NeusaM21/projeto-portfolio)  
-  Central repository consolidating **technical vision, summaries, and architecture** of **AI and automation projects**.  
-  **Stack:** Markdown · GitHub · Technical Documentation
+  Central repository for **documentation, technical vision, and architecture** across projects.  
+  **Stack:** Markdown · GitHub
 
 ---
 
-## 📊 GitHub Activity & Technical Overview
+## 📊 GitHub Activity
 
 <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NeusaM21&theme=github_dark"
-    width="420"
-    alt="GitHub Profile Summary"
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NeusaM21&theme=github_dark"
-    width="420"
-    alt="GitHub Language Summary"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NeusaM21&theme=github_dark" width="420"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NeusaM21&theme=github_dark" width="420"/>
 </p>
 
 ---
 
 ## 📫 Contact
 
-📧 **Email**: [contact.neusam21@gmail.com](mailto:contact.neusam21@gmail.com)  
-💼 **LinkedIn**: [https://www.linkedin.com/in/neusam21/](https://www.linkedin.com/in/neusam21/)  
-🚀 **Open to freelance work and international collaborations**
+📧 **Email:** contact.neusam21@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/neusam21/  
+🚀 **Open to freelance work, international projects, and complex challenges**
 
 ---
 
 ## ✨ Philosophy
 
 > "Automation is not about replacing people.  
-> It’s about **freeing time** for what truly matters."  
+> It’s about **building systems that make good decisions** to free up human time."  
 — **NeusaM21**
 
