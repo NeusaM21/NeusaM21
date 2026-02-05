@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="README_EN.md">
+  <a href="README.en.md">
     <img src="https://img.shields.io/badge/🇺🇸%20Read%20in%20English-0A66C2?style=for-the-badge&logo=googletranslate&logoColor=white"/>
   </a>
 </p>
