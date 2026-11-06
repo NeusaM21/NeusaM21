@@ -97,7 +97,7 @@
 
 - 🤖 [**nexmagni-flow**](https://github.com/NeusaM21/nexmagni-flow)  
   Portfólio técnico de uma plataforma SaaS de **atendimento e agendamento via WhatsApp com IA controlada**: **orquestrador de intenções com LLM**, **regras determinísticas antes de ações**, **human-in-the-loop fail-closed** e painel administrativo multiempresa.  
-  Inclui **três exemplos independentes e testados** (1.097 testes) e documentação bilíngue; o código completo é privado.  
+  Inclui **três exemplos independentes e testados** (1.295 testes) e documentação bilíngue; o código completo é privado.  
   **Stack:** Python · FastAPI · Google Gemini · PostgreSQL (Supabase) · React · Pytest  
   👉 Status de implantação documentado no README (produção × local × planejado).
 
