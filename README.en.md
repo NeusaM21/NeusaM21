@@ -81,7 +81,7 @@
 
 ## 📌 Featured Repositories
 
-👉 **AI, automation, and intelligent decision projects**, built with a focus on **enterprise architecture, explainability, and real-world production use** 👇
+👉 **AI, automation, and intelligent decision projects**, built with a focus on **enterprise architecture, explainability, and production readiness** 👇
 
 - 🧠 [**autonomous-risk-decision-agent**](https://github.com/NeusaM21/autonomous-risk-decision-agent)  
   Autonomous **risk decision agent** for **retail, fintechs, and marketplaces**, designed to **classify transactional risk** and execute **controlled automated actions** (`APPROVE`, `REQUEST_VERIFICATION`, `BLOCK_AND_ESCALATE`) with **audit logs**, **explainability**, and **human-in-the-loop**.  
@@ -95,11 +95,11 @@
   **Stack:** Python · FastAPI · Pydantic · Pytest · Decision Rules Engine  
   👉 Ideal for **retail, fintechs, marketplaces, and corporate systems**, without real financial data.
 
-- 🤖 [**olhar-sob-medida**](https://github.com/NeusaM21/olhar-sob-medida)  
-  **Intelligent WhatsApp automation system with controlled LLMs**, focused on **customer service, automated scheduling, and safe decision-making**.  
-  **Anti-hallucination architecture**, with **deterministic pipelines**, **human-in-the-loop**, and **external sources as the source of truth**.  
-  **Stack:** Python · FastAPI · Google Gemini · WhatsApp API · Google Sheets · Render  
-  👉 **Live production project**.
+- 🤖 [**nexmagni-flow**](https://github.com/NeusaM21/nexmagni-flow)  
+  Technical portfolio of a SaaS platform for **WhatsApp customer service and scheduling with controlled AI**: **LLM-based intent orchestrator**, **deterministic rules before actions**, **fail-closed human-in-the-loop**, and a multi-tenant admin dashboard.  
+  Includes **three independent, tested examples** (1,097 tests) and bilingual documentation; the full source code is private.  
+  **Stack:** Python · FastAPI · Google Gemini · PostgreSQL (Supabase) · React · Pytest  
+  👉 Deployment status documented in the README (production × local × planned).
 
 - 📁 [**enterprise-ai-automation-agent**](https://github.com/NeusaM21/enterprise-ai-automation-agent)  
   Enterprise **AI + automation agent**, integrating **WhatsApp, Shopify, and Google Gemini** for **sales, support, and intelligent business workflows**.  
